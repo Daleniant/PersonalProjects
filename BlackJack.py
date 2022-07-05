@@ -1,3 +1,6 @@
+# A Simple text-based game of BlackJack that you can easily play via terminal, made for OOP Practice
+# Based on the following rules: https://www.themresort.com/-/media/png/midwest/boom-town/pdfs/btc-tablegames-blackjack-link.pdf
+
 import random
 
 cards = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
